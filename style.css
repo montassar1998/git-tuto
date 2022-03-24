@@ -129,3 +129,12 @@
 .rockets{
     margin-top:100px;
 }
+
+.custom_pg{
+    color:lightgrey;
+    font-size: 18px;
+}
+.ul_specs li{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
